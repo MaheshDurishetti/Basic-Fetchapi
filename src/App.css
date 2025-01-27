@@ -1,0 +1,22 @@
+
+.product-List{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 60px;
+}
+.card{
+  width: 250px;
+  padding: 16px;
+  border-radius:5px ;
+  box-shadow:5px 5px 10px gray ;
+}
+.card img{
+  width: 100px;
+  height: 250px;
+  object-fit:contain ;
+}
+.H{
+ display: flex;
+ justify-content: center;
+}
